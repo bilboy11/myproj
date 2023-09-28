@@ -4,6 +4,7 @@ public class sample {
         int age = 21;
         System.out.println(name + " " + age);
         System.out.println("baller");
+        System.out.println("yayy");
 
     }
 }
