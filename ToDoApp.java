@@ -56,6 +56,7 @@ public class ToDoApp extends JFrame {
         setLocationRelativeTo(null);
         setVisible(true);
         setResizable(false);
+        setSize(350, 450);
     }
 
     public static void main(String[] args) {
