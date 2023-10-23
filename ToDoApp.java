@@ -3,8 +3,6 @@ import javax.swing.*;
 
 public class ToDoApp extends JFrame {
 
-    private static final long serialVersionUID = 1L;
-
     private JPanel mainPanel;
     private JTextField taskNameField;
     private JTextField taskDescriptionField;
